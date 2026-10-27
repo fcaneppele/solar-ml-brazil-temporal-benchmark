@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below (and the associated article once published)."
+title: "Predictor information content vs. algorithm choice in ML estimation of daily solar energy: code, data and results (10 Brazilian cities, NASA/POWER 2020-2025)"
+version: 1.0.0
+date-released: 2026-10-22
+license: MIT
+repository-code: "https://github.com/fcaneppele/solar-ml-brazil-temporal-benchmark"
+authors:
+  - family-names: "Caneppele"
+    given-names: "Fernando de Lima"
+    orcid: "https://orcid.org/0000-0003-4498-8682"
+    affiliation: "University of São Paulo (USP)"
+    email: caneppele@usp.br
+  - family-names: "Dal Pai"
+    given-names: "Alexandre"
+    orcid: "https://orcid.org/0000-0002-1283-901X"
+    affiliation: "São Paulo State University (UNESP)"
+  - family-names: "Tieghi"
+    given-names: "Camila Piacitelli"
+    orcid: "https://orcid.org/0000-0001-8060-5373"
+    affiliation: "University of São Paulo (USP)"
+  - family-names: "Nogueira"
+    given-names: "Carlos Eduardo Camargo"
+    orcid: "https://orcid.org/0000-0003-3886-9118"
+    affiliation: "Western Paraná State University (UNIOESTE)"
+  - family-names: "Siqueira"
+    given-names: "Jair Antonio Cruz"
+    orcid: "https://orcid.org/0000-0002-8140-444X"
+    affiliation: "Western Paraná State University (UNIOESTE)"
+  - family-names: "Frigo"
+    given-names: "Murilo Miceno"
+    orcid: "https://orcid.org/0000-0002-2499-7592"
+    affiliation: "Federal Institute of Mato Grosso do Sul (IFMS)"
+  - family-names: "Calça"
+    given-names: "Marcus Vinícius Contes"
+    orcid: "https://orcid.org/0000-0002-5685-3980"
+    affiliation: "SENAI-SP"
+  - family-names: "Malagueta"
+    given-names: "Diego Cunha"
+    orcid: "https://orcid.org/0000-0001-8352-7462"
+    affiliation: "Federal University of Rio de Janeiro (UFRJ)"
+  - family-names: "Godinho"
+    given-names: "Emmanuel Zullo"
+    orcid: "https://orcid.org/0000-0001-5281-6608"
+    affiliation: "University of São Paulo (USP)"
+keywords:
+  - solar energy
+  - solar radiation
+  - machine learning
+  - NASA POWER
+  - photovoltaic systems
+  - distributed generation
+  - Diebold-Mariano test
+  - Brazil

@@ -1,0 +1,721 @@
+City,FeatureSet,TestYear,Model,Reference,DM_stat,p_value,NW_lag,is_selected,is_oracle,p_holm_selected,beats_5pct_raw,beats_5pct_holm
+Manaus,F0,2024,Linear,clim,-2.82696,0.00496,5,False,False,,True,False
+Manaus,F0,2024,Linear,pers,-4.83165,0.00000,5,False,False,,True,False
+Manaus,F0,2025,Linear,clim,-3.49053,0.00054,5,False,False,,True,False
+Manaus,F0,2025,Linear,pers,-5.14648,0.00000,5,False,False,,True,False
+Manaus,F0,2024,CART,clim,-2.84041,0.00476,5,False,False,,True,False
+Manaus,F0,2024,CART,pers,-4.88464,0.00000,5,False,False,,True,False
+Manaus,F0,2025,CART,clim,-2.27920,0.02323,5,False,False,,True,False
+Manaus,F0,2025,CART,pers,-4.46262,0.00001,5,False,False,,True,False
+Manaus,F0,2024,SVM,clim,-3.73346,0.00022,5,False,False,,True,False
+Manaus,F0,2024,SVM,pers,-5.23329,0.00000,5,False,False,,True,False
+Manaus,F0,2025,SVM,clim,-2.09349,0.03700,5,False,False,,True,False
+Manaus,F0,2025,SVM,pers,-4.37086,0.00002,5,False,False,,True,False
+Manaus,F0,2024,RF,clim,-4.79760,0.00000,5,True,True,0.00007,True,True
+Manaus,F0,2024,RF,pers,-5.84394,0.00000,5,True,True,0.00000,True,True
+Manaus,F0,2025,RF,clim,-3.18781,0.00156,5,True,False,0.01866,True,True
+Manaus,F0,2025,RF,pers,-5.02138,0.00000,5,True,False,0.00002,True,True
+Manaus,F0,2024,GBT,clim,-4.39592,0.00001,5,False,False,,True,False
+Manaus,F0,2024,GBT,pers,-5.64247,0.00000,5,False,False,,True,False
+Manaus,F0,2025,GBT,clim,-3.73451,0.00022,5,False,True,,True,False
+Manaus,F0,2025,GBT,pers,-5.36414,0.00000,5,False,True,,True,False
+Manaus,F0,2024,GAM,clim,-4.35187,0.00002,5,False,False,,True,False
+Manaus,F0,2024,GAM,pers,-5.60878,0.00000,5,False,False,,True,False
+Manaus,F0,2025,GAM,clim,-3.25006,0.00126,5,False,False,,True,False
+Manaus,F0,2025,GAM,pers,-5.11009,0.00000,5,False,False,,True,False
+Manaus,F1,2024,Linear,clim,-4.05206,0.00006,5,False,False,,True,False
+Manaus,F1,2024,Linear,pers,-5.17807,0.00000,5,False,False,,True,False
+Manaus,F1,2025,Linear,clim,-4.03399,0.00007,5,False,False,,True,False
+Manaus,F1,2025,Linear,pers,-5.39713,0.00000,5,False,False,,True,False
+Manaus,F1,2024,CART,clim,-3.38094,0.00080,5,False,False,,True,False
+Manaus,F1,2024,CART,pers,-4.84320,0.00000,5,False,False,,True,False
+Manaus,F1,2025,CART,clim,-2.66625,0.00801,5,False,False,,True,False
+Manaus,F1,2025,CART,pers,-4.66359,0.00000,5,False,False,,True,False
+Manaus,F1,2024,SVM,clim,-4.26551,0.00003,5,False,False,,True,False
+Manaus,F1,2024,SVM,pers,-5.51304,0.00000,5,False,False,,True,False
+Manaus,F1,2025,SVM,clim,-2.50911,0.01254,5,False,False,,True,False
+Manaus,F1,2025,SVM,pers,-4.76864,0.00000,5,False,False,,True,False
+Manaus,F1,2024,RF,clim,-5.15041,0.00000,5,True,True,0.00001,True,True
+Manaus,F1,2024,RF,pers,-5.75290,0.00000,5,True,True,0.00000,True,True
+Manaus,F1,2025,RF,clim,-3.93378,0.00010,5,True,True,0.00210,True,True
+Manaus,F1,2025,RF,pers,-5.54222,0.00000,5,True,True,0.00000,True,True
+Manaus,F1,2024,GBT,clim,-4.36268,0.00002,5,False,False,,True,False
+Manaus,F1,2024,GBT,pers,-5.53496,0.00000,5,False,False,,True,False
+Manaus,F1,2025,GBT,clim,-3.86118,0.00013,5,False,False,,True,False
+Manaus,F1,2025,GBT,pers,-5.47502,0.00000,5,False,False,,True,False
+Manaus,F1,2024,GAM,clim,-4.64033,0.00000,5,False,False,,True,False
+Manaus,F1,2024,GAM,pers,-5.75825,0.00000,5,False,False,,True,False
+Manaus,F1,2025,GAM,clim,-3.31469,0.00101,5,False,False,,True,False
+Manaus,F1,2025,GAM,pers,-5.16572,0.00000,5,False,False,,True,False
+Manaus,F2,2024,Linear,clim,-7.00290,0.00000,5,False,False,,True,False
+Manaus,F2,2024,Linear,pers,-6.72736,0.00000,5,False,False,,True,False
+Manaus,F2,2025,Linear,clim,-8.08012,0.00000,5,False,False,,True,False
+Manaus,F2,2025,Linear,pers,-7.88165,0.00000,5,False,False,,True,False
+Manaus,F2,2024,CART,clim,-7.00698,0.00000,5,False,False,,True,False
+Manaus,F2,2024,CART,pers,-6.57759,0.00000,5,False,False,,True,False
+Manaus,F2,2025,CART,clim,-8.29037,0.00000,5,False,False,,True,False
+Manaus,F2,2025,CART,pers,-7.79254,0.00000,5,False,False,,True,False
+Manaus,F2,2024,SVM,clim,-7.28835,0.00000,5,False,False,,True,False
+Manaus,F2,2024,SVM,pers,-6.94130,0.00000,5,False,False,,True,False
+Manaus,F2,2025,SVM,clim,-8.27358,0.00000,5,False,False,,True,False
+Manaus,F2,2025,SVM,pers,-8.07761,0.00000,5,False,False,,True,False
+Manaus,F2,2024,RF,clim,-7.75034,0.00000,5,False,False,,True,False
+Manaus,F2,2024,RF,pers,-6.96164,0.00000,5,False,False,,True,False
+Manaus,F2,2025,RF,clim,-8.55997,0.00000,5,False,False,,True,False
+Manaus,F2,2025,RF,pers,-7.95242,0.00000,5,False,False,,True,False
+Manaus,F2,2024,GBT,clim,-7.57364,0.00000,5,True,False,0.00000,True,True
+Manaus,F2,2024,GBT,pers,-6.88647,0.00000,5,True,False,0.00000,True,True
+Manaus,F2,2025,GBT,clim,-8.76556,0.00000,5,True,True,0.00000,True,True
+Manaus,F2,2025,GBT,pers,-7.96890,0.00000,5,True,True,0.00000,True,True
+Manaus,F2,2024,GAM,clim,-7.48721,0.00000,5,False,True,,True,False
+Manaus,F2,2024,GAM,pers,-7.06818,0.00000,5,False,True,,True,False
+Manaus,F2,2025,GAM,clim,-8.42699,0.00000,5,False,False,,True,False
+Manaus,F2,2025,GAM,pers,-7.84918,0.00000,5,False,False,,True,False
+Fortaleza,F0,2024,Linear,clim,-3.15903,0.00171,5,False,False,,True,False
+Fortaleza,F0,2024,Linear,pers,-4.25244,0.00003,5,False,False,,True,False
+Fortaleza,F0,2025,Linear,clim,-2.97003,0.00318,5,False,False,,True,False
+Fortaleza,F0,2025,Linear,pers,-3.69982,0.00025,5,False,False,,True,False
+Fortaleza,F0,2024,CART,clim,-3.05106,0.00245,5,False,False,,True,False
+Fortaleza,F0,2024,CART,pers,-4.22758,0.00003,5,False,False,,True,False
+Fortaleza,F0,2025,CART,clim,-2.85506,0.00455,5,False,False,,True,False
+Fortaleza,F0,2025,CART,pers,-3.64870,0.00030,5,False,False,,True,False
+Fortaleza,F0,2024,SVM,clim,-3.49790,0.00053,5,False,False,,True,False
+Fortaleza,F0,2024,SVM,pers,-4.59651,0.00001,5,False,False,,True,False
+Fortaleza,F0,2025,SVM,clim,-3.38118,0.00080,5,False,False,,True,False
+Fortaleza,F0,2025,SVM,pers,-3.98875,0.00008,5,False,False,,True,False
+Fortaleza,F0,2024,RF,clim,-3.97691,0.00008,5,True,False,0.00185,True,True
+Fortaleza,F0,2024,RF,pers,-4.72124,0.00000,5,True,False,0.00009,True,True
+Fortaleza,F0,2025,RF,clim,-3.44390,0.00064,5,True,True,0.01152,True,True
+Fortaleza,F0,2025,RF,pers,-4.02585,0.00007,5,True,True,0.00138,True,True
+Fortaleza,F0,2024,GBT,clim,-3.93718,0.00010,5,False,True,,True,False
+Fortaleza,F0,2024,GBT,pers,-4.60558,0.00001,5,False,True,,True,False
+Fortaleza,F0,2025,GBT,clim,-3.30299,0.00105,5,False,False,,True,False
+Fortaleza,F0,2025,GBT,pers,-3.88610,0.00012,5,False,False,,True,False
+Fortaleza,F0,2024,GAM,clim,-3.71671,0.00023,5,False,False,,True,False
+Fortaleza,F0,2024,GAM,pers,-4.55652,0.00001,5,False,False,,True,False
+Fortaleza,F0,2025,GAM,clim,-3.13128,0.00188,5,False,False,,True,False
+Fortaleza,F0,2025,GAM,pers,-3.76121,0.00020,5,False,False,,True,False
+Fortaleza,F1,2024,Linear,clim,-3.02511,0.00266,5,False,False,,True,False
+Fortaleza,F1,2024,Linear,pers,-4.22299,0.00003,5,False,False,,True,False
+Fortaleza,F1,2025,Linear,clim,-3.77277,0.00019,5,False,False,,True,False
+Fortaleza,F1,2025,Linear,pers,-4.13814,0.00004,5,False,False,,True,False
+Fortaleza,F1,2024,CART,clim,-2.57720,0.01035,5,False,False,,True,False
+Fortaleza,F1,2024,CART,pers,-3.91693,0.00011,5,False,False,,True,False
+Fortaleza,F1,2025,CART,clim,-3.17636,0.00162,5,False,False,,True,False
+Fortaleza,F1,2025,CART,pers,-3.64957,0.00030,5,False,False,,True,False
+Fortaleza,F1,2024,SVM,clim,-3.84525,0.00014,5,False,False,,True,False
+Fortaleza,F1,2024,SVM,pers,-4.73433,0.00000,5,False,False,,True,False
+Fortaleza,F1,2025,SVM,clim,-3.88670,0.00012,5,False,False,,True,False
+Fortaleza,F1,2025,SVM,pers,-4.30915,0.00002,5,False,False,,True,False
+Fortaleza,F1,2024,RF,clim,-4.13278,0.00004,5,True,True,0.00107,True,True
+Fortaleza,F1,2024,RF,pers,-4.75176,0.00000,5,True,True,0.00008,True,True
+Fortaleza,F1,2025,RF,clim,-4.08153,0.00006,5,True,True,0.00127,True,True
+Fortaleza,F1,2025,RF,pers,-4.23922,0.00003,5,True,True,0.00063,True,True
+Fortaleza,F1,2024,GBT,clim,-3.93699,0.00010,5,False,False,,True,False
+Fortaleza,F1,2024,GBT,pers,-4.54165,0.00001,5,False,False,,True,False
+Fortaleza,F1,2025,GBT,clim,-3.98504,0.00008,5,False,False,,True,False
+Fortaleza,F1,2025,GBT,pers,-4.20216,0.00003,5,False,False,,True,False
+Fortaleza,F1,2024,GAM,clim,-3.63691,0.00032,5,False,False,,True,False
+Fortaleza,F1,2024,GAM,pers,-4.49033,0.00001,5,False,False,,True,False
+Fortaleza,F1,2025,GAM,clim,-4.10269,0.00005,5,False,False,,True,False
+Fortaleza,F1,2025,GAM,pers,-4.27408,0.00002,5,False,False,,True,False
+Fortaleza,F2,2024,Linear,clim,-4.40195,0.00001,5,False,False,,True,False
+Fortaleza,F2,2024,Linear,pers,-4.88145,0.00000,5,False,False,,True,False
+Fortaleza,F2,2025,Linear,clim,-5.25693,0.00000,5,False,False,,True,False
+Fortaleza,F2,2025,Linear,pers,-4.99846,0.00000,5,False,False,,True,False
+Fortaleza,F2,2024,CART,clim,-4.74219,0.00000,5,False,False,,True,False
+Fortaleza,F2,2024,CART,pers,-5.00651,0.00000,5,False,False,,True,False
+Fortaleza,F2,2025,CART,clim,-5.28948,0.00000,5,False,False,,True,False
+Fortaleza,F2,2025,CART,pers,-5.09867,0.00000,5,False,False,,True,False
+Fortaleza,F2,2024,SVM,clim,-5.10613,0.00000,5,False,False,,True,False
+Fortaleza,F2,2024,SVM,pers,-5.23979,0.00000,5,False,False,,True,False
+Fortaleza,F2,2025,SVM,clim,-5.40474,0.00000,5,False,False,,True,False
+Fortaleza,F2,2025,SVM,pers,-5.16682,0.00000,5,False,False,,True,False
+Fortaleza,F2,2024,RF,clim,-5.37483,0.00000,5,True,False,0.00000,True,True
+Fortaleza,F2,2024,RF,pers,-5.19012,0.00000,5,True,False,0.00001,True,True
+Fortaleza,F2,2025,RF,clim,-5.41837,0.00000,5,True,True,0.00000,True,True
+Fortaleza,F2,2025,RF,pers,-5.16140,0.00000,5,True,True,0.00001,True,True
+Fortaleza,F2,2024,GBT,clim,-5.17711,0.00000,5,False,True,,True,False
+Fortaleza,F2,2024,GBT,pers,-5.14770,0.00000,5,False,True,,True,False
+Fortaleza,F2,2025,GBT,clim,-5.36072,0.00000,5,False,False,,True,False
+Fortaleza,F2,2025,GBT,pers,-5.15140,0.00000,5,False,False,,True,False
+Fortaleza,F2,2024,GAM,clim,-4.94494,0.00000,5,False,False,,True,False
+Fortaleza,F2,2024,GAM,pers,-5.06365,0.00000,5,False,False,,True,False
+Fortaleza,F2,2025,GAM,clim,-5.29210,0.00000,5,False,False,,True,False
+Fortaleza,F2,2025,GAM,pers,-5.06170,0.00000,5,False,False,,True,False
+Recife,F0,2024,Linear,clim,0.28614,0.77493,5,False,False,,False,False
+Recife,F0,2024,Linear,pers,-2.62637,0.00899,5,False,False,,True,False
+Recife,F0,2025,Linear,clim,-2.19823,0.02856,5,False,False,,True,False
+Recife,F0,2025,Linear,pers,-2.78618,0.00561,5,False,False,,True,False
+Recife,F0,2024,CART,clim,0.20582,0.83705,5,False,False,,False,False
+Recife,F0,2024,CART,pers,-2.51930,0.01219,5,False,False,,True,False
+Recife,F0,2025,CART,clim,-2.28186,0.02307,5,False,False,,True,False
+Recife,F0,2025,CART,pers,-2.95870,0.00329,5,False,False,,True,False
+Recife,F0,2024,SVM,clim,-0.63502,0.52581,5,False,False,,False,False
+Recife,F0,2024,SVM,pers,-3.14136,0.00182,5,False,False,,True,False
+Recife,F0,2025,SVM,clim,-2.78514,0.00563,5,False,False,,True,False
+Recife,F0,2025,SVM,pers,-3.55229,0.00043,5,False,False,,True,False
+Recife,F0,2024,RF,clim,-1.51718,0.13009,5,True,True,0.42485,False,False
+Recife,F0,2024,RF,pers,-3.60065,0.00036,5,True,True,0.00614,True,True
+Recife,F0,2025,RF,clim,-2.82281,0.00502,5,True,False,0.05022,True,False
+Recife,F0,2025,RF,pers,-3.65807,0.00029,5,True,False,0.00525,True,True
+Recife,F0,2024,GBT,clim,-0.94131,0.34717,5,False,False,,False,False
+Recife,F0,2024,GBT,pers,-3.20611,0.00146,5,False,False,,True,False
+Recife,F0,2025,GBT,clim,-2.74388,0.00637,5,False,False,,True,False
+Recife,F0,2025,GBT,pers,-3.56004,0.00042,5,False,False,,True,False
+Recife,F0,2024,GAM,clim,-0.82193,0.41165,5,False,False,,False,False
+Recife,F0,2024,GAM,pers,-3.20232,0.00148,5,False,False,,True,False
+Recife,F0,2025,GAM,clim,-2.81497,0.00514,5,False,True,,True,False
+Recife,F0,2025,GAM,pers,-3.64613,0.00031,5,False,True,,True,False
+Recife,F1,2024,Linear,clim,-0.93453,0.35065,5,False,False,,False,False
+Recife,F1,2024,Linear,pers,-3.34505,0.00091,5,False,False,,True,False
+Recife,F1,2025,Linear,clim,-3.24938,0.00126,5,False,False,,True,False
+Recife,F1,2025,Linear,pers,-4.15243,0.00004,5,False,False,,True,False
+Recife,F1,2024,CART,clim,-2.09674,0.03670,5,False,False,,True,False
+Recife,F1,2024,CART,pers,-3.71798,0.00023,5,False,False,,True,False
+Recife,F1,2025,CART,clim,-2.54211,0.01143,5,False,False,,True,False
+Recife,F1,2025,CART,pers,-3.29333,0.00109,5,False,False,,True,False
+Recife,F1,2024,SVM,clim,-1.89667,0.05866,5,False,False,,False,False
+Recife,F1,2024,SVM,pers,-3.85417,0.00014,5,False,False,,True,False
+Recife,F1,2025,SVM,clim,-3.34501,0.00091,5,False,False,,True,False
+Recife,F1,2025,SVM,pers,-4.25956,0.00003,5,False,False,,True,False
+Recife,F1,2024,RF,clim,-3.38368,0.00079,5,True,True,0.01348,True,True
+Recife,F1,2024,RF,pers,-4.31139,0.00002,5,True,True,0.00048,True,True
+Recife,F1,2025,RF,clim,-3.31290,0.00102,5,True,False,0.01626,True,True
+Recife,F1,2025,RF,pers,-4.38550,0.00002,5,True,False,0.00038,True,True
+Recife,F1,2024,GBT,clim,-2.66833,0.00796,5,False,False,,True,False
+Recife,F1,2024,GBT,pers,-4.00101,0.00008,5,False,False,,True,False
+Recife,F1,2025,GBT,clim,-3.16352,0.00169,5,False,True,,True,False
+Recife,F1,2025,GBT,pers,-4.13942,0.00004,5,False,True,,True,False
+Recife,F1,2024,GAM,clim,-2.63820,0.00869,5,False,False,,True,False
+Recife,F1,2024,GAM,pers,-4.02569,0.00007,5,False,False,,True,False
+Recife,F1,2025,GAM,clim,-3.47588,0.00057,5,False,False,,True,False
+Recife,F1,2025,GAM,pers,-4.53145,0.00001,5,False,False,,True,False
+Recife,F2,2024,Linear,clim,-6.38558,0.00000,5,True,False,0.00000,True,True
+Recife,F2,2024,Linear,pers,-5.68630,0.00000,5,True,False,0.00000,True,True
+Recife,F2,2025,Linear,clim,-5.12856,0.00000,5,True,False,0.00002,True,True
+Recife,F2,2025,Linear,pers,-6.26361,0.00000,5,True,False,0.00000,True,True
+Recife,F2,2024,CART,clim,-5.27232,0.00000,5,False,False,,True,False
+Recife,F2,2024,CART,pers,-5.17526,0.00000,5,False,False,,True,False
+Recife,F2,2025,CART,clim,-4.18148,0.00004,5,False,False,,True,False
+Recife,F2,2025,CART,pers,-5.33402,0.00000,5,False,False,,True,False
+Recife,F2,2024,SVM,clim,-6.44197,0.00000,5,False,False,,True,False
+Recife,F2,2024,SVM,pers,-5.66440,0.00000,5,False,False,,True,False
+Recife,F2,2025,SVM,clim,-5.02296,0.00000,5,False,False,,True,False
+Recife,F2,2025,SVM,pers,-6.24101,0.00000,5,False,False,,True,False
+Recife,F2,2024,RF,clim,-6.06144,0.00000,5,False,False,,True,False
+Recife,F2,2024,RF,pers,-5.53069,0.00000,5,False,False,,True,False
+Recife,F2,2025,RF,clim,-4.57347,0.00001,5,False,False,,True,False
+Recife,F2,2025,RF,pers,-5.81482,0.00000,5,False,False,,True,False
+Recife,F2,2024,GBT,clim,-5.98476,0.00000,5,False,False,,True,False
+Recife,F2,2024,GBT,pers,-5.58594,0.00000,5,False,False,,True,False
+Recife,F2,2025,GBT,clim,-4.44406,0.00001,5,False,True,,True,False
+Recife,F2,2025,GBT,pers,-5.59108,0.00000,5,False,True,,True,False
+Recife,F2,2024,GAM,clim,-5.98857,0.00000,5,False,True,,True,False
+Recife,F2,2024,GAM,pers,-5.54239,0.00000,5,False,True,,True,False
+Recife,F2,2025,GAM,clim,-4.78736,0.00000,5,False,False,,True,False
+Recife,F2,2025,GAM,pers,-5.97682,0.00000,5,False,False,,True,False
+Brasilia,F0,2024,Linear,clim,-2.43410,0.01541,5,False,False,,True,False
+Brasilia,F0,2024,Linear,pers,-0.39805,0.69082,5,False,False,,False,False
+Brasilia,F0,2025,Linear,clim,-2.01617,0.04452,5,False,False,,True,False
+Brasilia,F0,2025,Linear,pers,-0.92866,0.35368,5,False,False,,False,False
+Brasilia,F0,2024,CART,clim,-1.62003,0.10609,5,False,False,,False,False
+Brasilia,F0,2024,CART,pers,-0.24402,0.80736,5,False,False,,False,False
+Brasilia,F0,2025,CART,clim,-0.85996,0.39038,5,False,False,,False,False
+Brasilia,F0,2025,CART,pers,-0.17205,0.86350,5,False,False,,False,False
+Brasilia,F0,2024,SVM,clim,-2.00623,0.04557,5,True,False,0.22784,True,False
+Brasilia,F0,2024,SVM,pers,-0.48541,0.62768,5,True,False,1.00000,False,False
+Brasilia,F0,2025,SVM,clim,-1.61947,0.10621,5,True,False,0.42485,False,False
+Brasilia,F0,2025,SVM,pers,-1.00247,0.31678,5,True,False,1.00000,False,False
+Brasilia,F0,2024,RF,clim,-3.31334,0.00101,5,False,False,,True,False
+Brasilia,F0,2024,RF,pers,-1.48856,0.13747,5,False,False,,False,False
+Brasilia,F0,2025,RF,clim,-2.17393,0.03035,5,False,True,,True,False
+Brasilia,F0,2025,RF,pers,-1.45686,0.14602,5,False,True,,False,False
+Brasilia,F0,2024,GBT,clim,-3.55841,0.00042,5,False,True,,True,False
+Brasilia,F0,2024,GBT,pers,-1.63246,0.10344,5,False,True,,False,False
+Brasilia,F0,2025,GBT,clim,-2.08975,0.03733,5,False,False,,True,False
+Brasilia,F0,2025,GBT,pers,-1.33520,0.18264,5,False,False,,False,False
+Brasilia,F0,2024,GAM,clim,-2.68694,0.00754,5,False,False,,True,False
+Brasilia,F0,2024,GAM,pers,-0.87449,0.38243,5,False,False,,False,False
+Brasilia,F0,2025,GAM,clim,-1.84130,0.06639,5,False,False,,False,False
+Brasilia,F0,2025,GAM,pers,-1.01917,0.30880,5,False,False,,False,False
+Brasilia,F1,2024,Linear,clim,-4.55368,0.00001,5,False,False,,True,False
+Brasilia,F1,2024,Linear,pers,-2.70790,0.00709,5,False,False,,True,False
+Brasilia,F1,2025,Linear,clim,-4.08373,0.00005,5,False,False,,True,False
+Brasilia,F1,2025,Linear,pers,-3.17882,0.00161,5,False,False,,True,False
+Brasilia,F1,2024,CART,clim,-3.16945,0.00166,5,False,False,,True,False
+Brasilia,F1,2024,CART,pers,-1.75633,0.07987,5,False,False,,False,False
+Brasilia,F1,2025,CART,clim,-3.93272,0.00010,5,False,False,,True,False
+Brasilia,F1,2025,CART,pers,-3.10315,0.00206,5,False,False,,True,False
+Brasilia,F1,2024,SVM,clim,-4.87118,0.00000,5,True,False,0.00005,True,True
+Brasilia,F1,2024,SVM,pers,-3.17299,0.00164,5,True,False,0.02128,True,True
+Brasilia,F1,2025,SVM,clim,-4.25588,0.00003,5,True,False,0.00066,True,True
+Brasilia,F1,2025,SVM,pers,-3.76606,0.00019,5,True,False,0.00367,True,True
+Brasilia,F1,2024,RF,clim,-5.55656,0.00000,5,False,True,,True,False
+Brasilia,F1,2024,RF,pers,-3.67577,0.00027,5,False,True,,True,False
+Brasilia,F1,2025,RF,clim,-5.28104,0.00000,5,False,True,,True,False
+Brasilia,F1,2025,RF,pers,-4.63344,0.00001,5,False,True,,True,False
+Brasilia,F1,2024,GBT,clim,-5.19973,0.00000,5,False,False,,True,False
+Brasilia,F1,2024,GBT,pers,-3.24265,0.00129,5,False,False,,True,False
+Brasilia,F1,2025,GBT,clim,-5.14597,0.00000,5,False,False,,True,False
+Brasilia,F1,2025,GBT,pers,-4.27669,0.00002,5,False,False,,True,False
+Brasilia,F1,2024,GAM,clim,-4.59165,0.00001,5,False,False,,True,False
+Brasilia,F1,2024,GAM,pers,-2.67631,0.00778,5,False,False,,True,False
+Brasilia,F1,2025,GAM,clim,-4.09749,0.00005,5,False,False,,True,False
+Brasilia,F1,2025,GAM,pers,-3.40365,0.00074,5,False,False,,True,False
+Brasilia,F2,2024,Linear,clim,-6.13242,0.00000,5,False,False,,True,False
+Brasilia,F2,2024,Linear,pers,-4.67746,0.00000,5,False,False,,True,False
+Brasilia,F2,2025,Linear,clim,-7.06590,0.00000,5,False,False,,True,False
+Brasilia,F2,2025,Linear,pers,-5.48162,0.00000,5,False,False,,True,False
+Brasilia,F2,2024,CART,clim,-6.26259,0.00000,5,False,False,,True,False
+Brasilia,F2,2024,CART,pers,-5.44203,0.00000,5,False,False,,True,False
+Brasilia,F2,2025,CART,clim,-6.67185,0.00000,5,False,False,,True,False
+Brasilia,F2,2025,CART,pers,-5.44126,0.00000,5,False,False,,True,False
+Brasilia,F2,2024,SVM,clim,-6.94361,0.00000,5,False,False,,True,False
+Brasilia,F2,2024,SVM,pers,-6.07029,0.00000,5,False,False,,True,False
+Brasilia,F2,2025,SVM,clim,-7.58424,0.00000,5,False,False,,True,False
+Brasilia,F2,2025,SVM,pers,-6.10780,0.00000,5,False,False,,True,False
+Brasilia,F2,2024,RF,clim,-6.84720,0.00000,5,True,False,0.00000,True,True
+Brasilia,F2,2024,RF,pers,-6.01551,0.00000,5,True,False,0.00000,True,True
+Brasilia,F2,2025,RF,clim,-7.38879,0.00000,5,True,False,0.00000,True,True
+Brasilia,F2,2025,RF,pers,-6.00054,0.00000,5,True,False,0.00000,True,True
+Brasilia,F2,2024,GBT,clim,-6.75453,0.00000,5,False,True,,True,False
+Brasilia,F2,2024,GBT,pers,-6.05712,0.00000,5,False,True,,True,False
+Brasilia,F2,2025,GBT,clim,-7.37959,0.00000,5,False,True,,True,False
+Brasilia,F2,2025,GBT,pers,-5.93942,0.00000,5,False,True,,True,False
+Brasilia,F2,2024,GAM,clim,-6.52191,0.00000,5,False,False,,True,False
+Brasilia,F2,2024,GAM,pers,-5.71875,0.00000,5,False,False,,True,False
+Brasilia,F2,2025,GAM,clim,-6.81086,0.00000,5,False,False,,True,False
+Brasilia,F2,2025,GAM,pers,-5.51239,0.00000,5,False,False,,True,False
+Cuiaba,F0,2024,Linear,clim,-1.15537,0.24870,5,False,False,,False,False
+Cuiaba,F0,2024,Linear,pers,-0.53674,0.59178,5,False,False,,False,False
+Cuiaba,F0,2025,Linear,clim,-2.48648,0.01335,5,False,False,,True,False
+Cuiaba,F0,2025,Linear,pers,-3.42439,0.00069,5,False,False,,True,False
+Cuiaba,F0,2024,CART,clim,-0.03955,0.96848,5,False,False,,False,False
+Cuiaba,F0,2024,CART,pers,0.23164,0.81695,5,False,False,,False,False
+Cuiaba,F0,2025,CART,clim,-1.79421,0.07361,5,False,False,,False,False
+Cuiaba,F0,2025,CART,pers,-2.69793,0.00730,5,False,False,,True,False
+Cuiaba,F0,2024,SVM,clim,0.51073,0.60985,5,True,False,0.60985,False,False
+Cuiaba,F0,2024,SVM,pers,0.58682,0.55769,5,True,False,1.00000,False,False
+Cuiaba,F0,2025,SVM,clim,-2.36854,0.01838,5,True,False,0.12866,True,False
+Cuiaba,F0,2025,SVM,pers,-3.36903,0.00084,5,True,False,0.01253,True,True
+Cuiaba,F0,2024,RF,clim,-1.60912,0.10846,5,False,True,,False,False
+Cuiaba,F0,2024,RF,pers,-0.68733,0.49231,5,False,True,,False,False
+Cuiaba,F0,2025,RF,clim,-3.13284,0.00187,5,False,True,,True,False
+Cuiaba,F0,2025,RF,pers,-4.02452,0.00007,5,False,True,,True,False
+Cuiaba,F0,2024,GBT,clim,-1.32773,0.18510,5,False,False,,False,False
+Cuiaba,F0,2024,GBT,pers,-0.50796,0.61179,5,False,False,,False,False
+Cuiaba,F0,2025,GBT,clim,-3.20500,0.00147,5,False,False,,True,False
+Cuiaba,F0,2025,GBT,pers,-3.93743,0.00010,5,False,False,,True,False
+Cuiaba,F0,2024,GAM,clim,-1.43942,0.15089,5,False,False,,False,False
+Cuiaba,F0,2024,GAM,pers,-0.59272,0.55374,5,False,False,,False,False
+Cuiaba,F0,2025,GAM,clim,-2.44702,0.01488,5,False,False,,True,False
+Cuiaba,F0,2025,GAM,pers,-3.26903,0.00118,5,False,False,,True,False
+Cuiaba,F1,2024,Linear,clim,-3.14996,0.00177,5,False,False,,True,False
+Cuiaba,F1,2024,Linear,pers,-2.10966,0.03557,5,False,False,,True,False
+Cuiaba,F1,2025,Linear,clim,-5.59378,0.00000,5,False,True,,True,False
+Cuiaba,F1,2025,Linear,pers,-5.99773,0.00000,5,False,True,,True,False
+Cuiaba,F1,2024,CART,clim,-1.44651,0.14889,5,False,False,,False,False
+Cuiaba,F1,2024,CART,pers,-0.71283,0.47641,5,False,False,,False,False
+Cuiaba,F1,2025,CART,clim,-2.27298,0.02361,5,False,False,,True,False
+Cuiaba,F1,2025,CART,pers,-3.61042,0.00035,5,False,False,,True,False
+Cuiaba,F1,2024,SVM,clim,-2.69374,0.00739,5,True,False,0.06653,True,False
+Cuiaba,F1,2024,SVM,pers,-1.67800,0.09420,5,True,False,0.65942,False,False
+Cuiaba,F1,2025,SVM,clim,-4.60664,0.00001,5,True,False,0.00016,True,True
+Cuiaba,F1,2025,SVM,pers,-5.39540,0.00000,5,True,False,0.00000,True,True
+Cuiaba,F1,2024,RF,clim,-3.88601,0.00012,5,False,False,,True,False
+Cuiaba,F1,2024,RF,pers,-2.26262,0.02425,5,False,False,,True,False
+Cuiaba,F1,2025,RF,clim,-5.01278,0.00000,5,False,False,,True,False
+Cuiaba,F1,2025,RF,pers,-5.44211,0.00000,5,False,False,,True,False
+Cuiaba,F1,2024,GBT,clim,-3.80077,0.00017,5,False,False,,True,False
+Cuiaba,F1,2024,GBT,pers,-2.07108,0.03905,5,False,False,,True,False
+Cuiaba,F1,2025,GBT,clim,-5.81241,0.00000,5,False,False,,True,False
+Cuiaba,F1,2025,GBT,pers,-5.49435,0.00000,5,False,False,,True,False
+Cuiaba,F1,2024,GAM,clim,-4.84112,0.00000,5,False,True,,True,False
+Cuiaba,F1,2024,GAM,pers,-3.12041,0.00195,5,False,True,,True,False
+Cuiaba,F1,2025,GAM,clim,-5.27057,0.00000,5,False,False,,True,False
+Cuiaba,F1,2025,GAM,pers,-5.32080,0.00000,5,False,False,,True,False
+Cuiaba,F2,2024,Linear,clim,-5.38334,0.00000,5,False,False,,True,False
+Cuiaba,F2,2024,Linear,pers,-4.29612,0.00002,5,False,False,,True,False
+Cuiaba,F2,2025,Linear,clim,-8.17835,0.00000,5,False,False,,True,False
+Cuiaba,F2,2025,Linear,pers,-8.24096,0.00000,5,False,False,,True,False
+Cuiaba,F2,2024,CART,clim,-5.68088,0.00000,5,False,False,,True,False
+Cuiaba,F2,2024,CART,pers,-4.92236,0.00000,5,False,False,,True,False
+Cuiaba,F2,2025,CART,clim,-6.55612,0.00000,5,False,False,,True,False
+Cuiaba,F2,2025,CART,pers,-7.40918,0.00000,5,False,False,,True,False
+Cuiaba,F2,2024,SVM,clim,-5.26637,0.00000,5,False,False,,True,False
+Cuiaba,F2,2024,SVM,pers,-4.29122,0.00002,5,False,False,,True,False
+Cuiaba,F2,2025,SVM,clim,-8.13938,0.00000,5,False,False,,True,False
+Cuiaba,F2,2025,SVM,pers,-8.87027,0.00000,5,False,False,,True,False
+Cuiaba,F2,2024,RF,clim,-6.51295,0.00000,5,True,False,0.00000,True,True
+Cuiaba,F2,2024,RF,pers,-5.62439,0.00000,5,True,False,0.00000,True,True
+Cuiaba,F2,2025,RF,clim,-7.90977,0.00000,5,True,False,0.00000,True,True
+Cuiaba,F2,2025,RF,pers,-8.95070,0.00000,5,True,False,0.00000,True,True
+Cuiaba,F2,2024,GBT,clim,-6.58253,0.00000,5,False,False,,True,False
+Cuiaba,F2,2024,GBT,pers,-5.47705,0.00000,5,False,False,,True,False
+Cuiaba,F2,2025,GBT,clim,-8.08418,0.00000,5,False,True,,True,False
+Cuiaba,F2,2025,GBT,pers,-8.89727,0.00000,5,False,True,,True,False
+Cuiaba,F2,2024,GAM,clim,-6.59709,0.00000,5,False,True,,True,False
+Cuiaba,F2,2024,GAM,pers,-5.59878,0.00000,5,False,True,,True,False
+Cuiaba,F2,2025,GAM,clim,-7.75799,0.00000,5,False,False,,True,False
+Cuiaba,F2,2025,GAM,pers,-8.55806,0.00000,5,False,False,,True,False
+Belo Horizonte,F0,2024,Linear,clim,-2.22892,0.02643,5,False,False,,True,False
+Belo Horizonte,F0,2024,Linear,pers,-0.18572,0.85276,5,False,False,,False,False
+Belo Horizonte,F0,2025,Linear,clim,-1.28539,0.19947,5,False,False,,False,False
+Belo Horizonte,F0,2025,Linear,pers,1.18005,0.23875,5,False,False,,False,False
+Belo Horizonte,F0,2024,CART,clim,-0.95250,0.34147,5,False,False,,False,False
+Belo Horizonte,F0,2024,CART,pers,0.86083,0.38990,5,False,False,,False,False
+Belo Horizonte,F0,2025,CART,clim,-1.25411,0.21061,5,False,False,,False,False
+Belo Horizonte,F0,2025,CART,pers,0.81150,0.41761,5,False,False,,False,False
+Belo Horizonte,F0,2024,SVM,clim,-2.14873,0.03231,5,False,True,,True,False
+Belo Horizonte,F0,2024,SVM,pers,-0.42649,0.67000,5,False,True,,False,False
+Belo Horizonte,F0,2025,SVM,clim,-1.94659,0.05235,5,False,False,,False,False
+Belo Horizonte,F0,2025,SVM,pers,0.14058,0.88828,5,False,False,,False,False
+Belo Horizonte,F0,2024,RF,clim,-2.12330,0.03440,5,False,False,,True,False
+Belo Horizonte,F0,2024,RF,pers,-0.27112,0.78645,5,False,False,,False,False
+Belo Horizonte,F0,2025,RF,clim,-2.34364,0.01963,5,False,False,,True,False
+Belo Horizonte,F0,2025,RF,pers,-0.30754,0.75860,5,False,False,,False,False
+Belo Horizonte,F0,2024,GBT,clim,-2.03703,0.04237,5,False,False,,True,False
+Belo Horizonte,F0,2024,GBT,pers,-0.16557,0.86858,5,False,False,,False,False
+Belo Horizonte,F0,2025,GBT,clim,-2.48032,0.01358,5,False,False,,True,False
+Belo Horizonte,F0,2025,GBT,pers,-0.19977,0.84177,5,False,False,,False,False
+Belo Horizonte,F0,2024,GAM,clim,-1.33808,0.18170,5,True,False,0.42485,False,False
+Belo Horizonte,F0,2024,GAM,pers,0.45683,0.64806,5,True,False,1.00000,False,False
+Belo Horizonte,F0,2025,GAM,clim,-2.47485,0.01378,5,True,True,0.11027,True,False
+Belo Horizonte,F0,2025,GAM,pers,-0.41475,0.67857,5,True,True,1.00000,False,False
+Belo Horizonte,F1,2024,Linear,clim,-4.53722,0.00001,5,False,False,,True,False
+Belo Horizonte,F1,2024,Linear,pers,-3.22280,0.00138,5,False,False,,True,False
+Belo Horizonte,F1,2025,Linear,clim,-4.31935,0.00002,5,False,False,,True,False
+Belo Horizonte,F1,2025,Linear,pers,-3.08149,0.00222,5,False,False,,True,False
+Belo Horizonte,F1,2024,CART,clim,-4.19439,0.00003,5,False,False,,True,False
+Belo Horizonte,F1,2024,CART,pers,-2.70721,0.00710,5,False,False,,True,False
+Belo Horizonte,F1,2025,CART,clim,-2.55592,0.01100,5,False,False,,True,False
+Belo Horizonte,F1,2025,CART,pers,-0.62423,0.53287,5,False,False,,False,False
+Belo Horizonte,F1,2024,SVM,clim,-4.44497,0.00001,5,False,False,,True,False
+Belo Horizonte,F1,2024,SVM,pers,-3.34188,0.00092,5,False,False,,True,False
+Belo Horizonte,F1,2025,SVM,clim,-4.31340,0.00002,5,False,False,,True,False
+Belo Horizonte,F1,2025,SVM,pers,-3.24250,0.00129,5,False,False,,True,False
+Belo Horizonte,F1,2024,RF,clim,-5.85859,0.00000,5,False,True,,True,False
+Belo Horizonte,F1,2024,RF,pers,-4.91130,0.00000,5,False,True,,True,False
+Belo Horizonte,F1,2025,RF,clim,-5.01420,0.00000,5,False,True,,True,False
+Belo Horizonte,F1,2025,RF,pers,-4.03324,0.00007,5,False,True,,True,False
+Belo Horizonte,F1,2024,GBT,clim,-5.47997,0.00000,5,False,False,,True,False
+Belo Horizonte,F1,2024,GBT,pers,-4.59944,0.00001,5,False,False,,True,False
+Belo Horizonte,F1,2025,GBT,clim,-4.85518,0.00000,5,False,False,,True,False
+Belo Horizonte,F1,2025,GBT,pers,-3.77007,0.00019,5,False,False,,True,False
+Belo Horizonte,F1,2024,GAM,clim,-4.55496,0.00001,5,True,False,0.00019,True,True
+Belo Horizonte,F1,2024,GAM,pers,-3.58908,0.00038,5,True,False,0.00614,True,True
+Belo Horizonte,F1,2025,GAM,clim,-4.43799,0.00001,5,True,False,0.00031,True,True
+Belo Horizonte,F1,2025,GAM,pers,-3.31832,0.00100,5,True,False,0.01396,True,True
+Belo Horizonte,F2,2024,Linear,clim,-6.09969,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2024,Linear,pers,-5.35896,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2025,Linear,clim,-7.25168,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2025,Linear,pers,-6.55872,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2024,CART,clim,-6.47823,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2024,CART,pers,-6.32753,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2025,CART,clim,-6.75404,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2025,CART,pers,-5.83469,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2024,SVM,clim,-7.30441,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2024,SVM,pers,-7.16632,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2025,SVM,clim,-7.61583,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2025,SVM,pers,-7.41773,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2024,RF,clim,-7.11035,0.00000,5,False,True,,True,False
+Belo Horizonte,F2,2024,RF,pers,-7.25709,0.00000,5,False,True,,True,False
+Belo Horizonte,F2,2025,RF,clim,-7.66304,0.00000,5,False,True,,True,False
+Belo Horizonte,F2,2025,RF,pers,-7.24997,0.00000,5,False,True,,True,False
+Belo Horizonte,F2,2024,GBT,clim,-6.67184,0.00000,5,True,False,0.00000,True,True
+Belo Horizonte,F2,2024,GBT,pers,-6.71606,0.00000,5,True,False,0.00000,True,True
+Belo Horizonte,F2,2025,GBT,clim,-7.52719,0.00000,5,True,False,0.00000,True,True
+Belo Horizonte,F2,2025,GBT,pers,-7.10572,0.00000,5,True,False,0.00000,True,True
+Belo Horizonte,F2,2024,GAM,clim,-6.18224,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2024,GAM,pers,-5.99285,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2025,GAM,clim,-7.47692,0.00000,5,False,False,,True,False
+Belo Horizonte,F2,2025,GAM,pers,-6.89036,0.00000,5,False,False,,True,False
+Rio de Janeiro,F0,2024,Linear,clim,-2.78683,0.00560,5,False,False,,True,False
+Rio de Janeiro,F0,2024,Linear,pers,-1.93682,0.05354,5,False,False,,False,False
+Rio de Janeiro,F0,2025,Linear,clim,-1.91773,0.05593,5,False,False,,False,False
+Rio de Janeiro,F0,2025,Linear,pers,0.43507,0.66377,5,False,False,,False,False
+Rio de Janeiro,F0,2024,CART,clim,-2.57942,0.01029,5,False,False,,True,False
+Rio de Janeiro,F0,2024,CART,pers,-1.95883,0.05089,5,False,False,,False,False
+Rio de Janeiro,F0,2025,CART,clim,-2.11303,0.03528,5,False,False,,True,False
+Rio de Janeiro,F0,2025,CART,pers,0.00419,0.99666,5,False,False,,False,False
+Rio de Janeiro,F0,2024,SVM,clim,-3.94994,0.00009,5,False,False,,True,False
+Rio de Janeiro,F0,2024,SVM,pers,-3.03926,0.00254,5,False,False,,True,False
+Rio de Janeiro,F0,2025,SVM,clim,-2.69388,0.00739,5,False,False,,True,False
+Rio de Janeiro,F0,2025,SVM,pers,-0.32616,0.74449,5,False,False,,False,False
+Rio de Janeiro,F0,2024,RF,clim,-3.75985,0.00020,5,True,True,0.00376,True,True
+Rio de Janeiro,F0,2024,RF,pers,-2.93391,0.00356,5,True,True,0.04271,True,True
+Rio de Janeiro,F0,2025,RF,clim,-3.21920,0.00140,5,True,False,0.01821,True,True
+Rio de Janeiro,F0,2025,RF,pers,-0.98270,0.32641,5,True,False,1.00000,False,False
+Rio de Janeiro,F0,2024,GBT,clim,-3.80246,0.00017,5,False,False,,True,False
+Rio de Janeiro,F0,2024,GBT,pers,-2.92635,0.00364,5,False,False,,True,False
+Rio de Janeiro,F0,2025,GBT,clim,-3.27155,0.00117,5,False,True,,True,False
+Rio de Janeiro,F0,2025,GBT,pers,-1.02765,0.30480,5,False,True,,False,False
+Rio de Janeiro,F0,2024,GAM,clim,-3.11382,0.00199,5,False,False,,True,False
+Rio de Janeiro,F0,2024,GAM,pers,-2.36291,0.01866,5,False,False,,True,False
+Rio de Janeiro,F0,2025,GAM,clim,-2.96486,0.00323,5,False,False,,True,False
+Rio de Janeiro,F0,2025,GAM,pers,-0.84508,0.39862,5,False,False,,False,False
+Rio de Janeiro,F1,2024,Linear,clim,-6.14643,0.00000,5,False,False,,True,False
+Rio de Janeiro,F1,2024,Linear,pers,-5.14105,0.00000,5,False,False,,True,False
+Rio de Janeiro,F1,2025,Linear,clim,-4.58082,0.00001,5,False,False,,True,False
+Rio de Janeiro,F1,2025,Linear,pers,-3.30453,0.00105,5,False,False,,True,False
+Rio de Janeiro,F1,2024,CART,clim,-6.10179,0.00000,5,False,False,,True,False
+Rio de Janeiro,F1,2024,CART,pers,-5.29300,0.00000,5,False,False,,True,False
+Rio de Janeiro,F1,2025,CART,clim,-4.80282,0.00000,5,False,False,,True,False
+Rio de Janeiro,F1,2025,CART,pers,-3.82675,0.00015,5,False,False,,True,False
+Rio de Janeiro,F1,2024,SVM,clim,-6.86857,0.00000,5,False,False,,True,False
+Rio de Janeiro,F1,2024,SVM,pers,-6.18159,0.00000,5,False,False,,True,False
+Rio de Janeiro,F1,2025,SVM,clim,-4.68516,0.00000,5,False,False,,True,False
+Rio de Janeiro,F1,2025,SVM,pers,-3.74947,0.00021,5,False,False,,True,False
+Rio de Janeiro,F1,2024,RF,clim,-7.55036,0.00000,5,False,True,,True,False
+Rio de Janeiro,F1,2024,RF,pers,-6.43748,0.00000,5,False,True,,True,False
+Rio de Janeiro,F1,2025,RF,clim,-6.21794,0.00000,5,False,True,,True,False
+Rio de Janeiro,F1,2025,RF,pers,-5.73042,0.00000,5,False,True,,True,False
+Rio de Janeiro,F1,2024,GBT,clim,-7.31823,0.00000,5,True,False,0.00000,True,True
+Rio de Janeiro,F1,2024,GBT,pers,-6.26513,0.00000,5,True,False,0.00000,True,True
+Rio de Janeiro,F1,2025,GBT,clim,-6.01573,0.00000,5,True,False,0.00000,True,True
+Rio de Janeiro,F1,2025,GBT,pers,-5.56750,0.00000,5,True,False,0.00000,True,True
+Rio de Janeiro,F1,2024,GAM,clim,-6.78071,0.00000,5,False,False,,True,False
+Rio de Janeiro,F1,2024,GAM,pers,-5.73266,0.00000,5,False,False,,True,False
+Rio de Janeiro,F1,2025,GAM,clim,-5.33271,0.00000,5,False,False,,True,False
+Rio de Janeiro,F1,2025,GAM,pers,-4.67658,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2024,Linear,clim,-7.70958,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2024,Linear,pers,-6.35314,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2025,Linear,clim,-8.74833,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2025,Linear,pers,-7.89895,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2024,CART,clim,-8.73670,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2024,CART,pers,-7.21970,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2025,CART,clim,-8.58597,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2025,CART,pers,-8.03688,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2024,SVM,clim,-9.46711,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2024,SVM,pers,-8.14190,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2025,SVM,clim,-9.15764,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2025,SVM,pers,-8.81875,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2024,RF,clim,-9.53989,0.00000,5,False,True,,True,False
+Rio de Janeiro,F2,2024,RF,pers,-8.00315,0.00000,5,False,True,,True,False
+Rio de Janeiro,F2,2025,RF,clim,-9.13718,0.00000,5,False,True,,True,False
+Rio de Janeiro,F2,2025,RF,pers,-8.42629,0.00000,5,False,True,,True,False
+Rio de Janeiro,F2,2024,GBT,clim,-9.14711,0.00000,5,True,False,0.00000,True,True
+Rio de Janeiro,F2,2024,GBT,pers,-7.85060,0.00000,5,True,False,0.00000,True,True
+Rio de Janeiro,F2,2025,GBT,clim,-8.99416,0.00000,5,True,False,0.00000,True,True
+Rio de Janeiro,F2,2025,GBT,pers,-8.39895,0.00000,5,True,False,0.00000,True,True
+Rio de Janeiro,F2,2024,GAM,clim,-8.75615,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2024,GAM,pers,-7.43198,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2025,GAM,clim,-8.86856,0.00000,5,False,False,,True,False
+Rio de Janeiro,F2,2025,GAM,pers,-8.19114,0.00000,5,False,False,,True,False
+Sao Paulo,F0,2024,Linear,clim,-1.21912,0.22359,5,False,False,,False,False
+Sao Paulo,F0,2024,Linear,pers,-0.55083,0.58208,5,False,False,,False,False
+Sao Paulo,F0,2025,Linear,clim,-2.30380,0.02180,5,False,False,,True,False
+Sao Paulo,F0,2025,Linear,pers,-1.53915,0.12464,5,False,False,,False,False
+Sao Paulo,F0,2024,CART,clim,-2.30928,0.02149,5,False,False,,True,False
+Sao Paulo,F0,2024,CART,pers,-1.77907,0.07606,5,False,False,,False,False
+Sao Paulo,F0,2025,CART,clim,-2.83893,0.00478,5,False,False,,True,False
+Sao Paulo,F0,2025,CART,pers,-2.07847,0.03837,5,False,False,,True,False
+Sao Paulo,F0,2024,SVM,clim,-3.25692,0.00123,5,False,False,,True,False
+Sao Paulo,F0,2024,SVM,pers,-2.89194,0.00406,5,False,False,,True,False
+Sao Paulo,F0,2025,SVM,clim,-3.37305,0.00082,5,False,False,,True,False
+Sao Paulo,F0,2025,SVM,pers,-2.58616,0.01009,5,False,False,,True,False
+Sao Paulo,F0,2024,RF,clim,-3.29467,0.00108,5,True,True,0.01626,True,True
+Sao Paulo,F0,2024,RF,pers,-2.93183,0.00358,5,True,True,0.04271,True,True
+Sao Paulo,F0,2025,RF,clim,-3.88835,0.00012,5,True,True,0.00240,True,True
+Sao Paulo,F0,2025,RF,pers,-2.58302,0.01018,5,True,True,0.09165,True,False
+Sao Paulo,F0,2024,GBT,clim,-3.05151,0.00244,5,False,False,,True,False
+Sao Paulo,F0,2024,GBT,pers,-2.60976,0.00943,5,False,False,,True,False
+Sao Paulo,F0,2025,GBT,clim,-3.54067,0.00045,5,False,False,,True,False
+Sao Paulo,F0,2025,GBT,pers,-2.17385,0.03036,5,False,False,,True,False
+Sao Paulo,F0,2024,GAM,clim,-2.76234,0.00603,5,False,False,,True,False
+Sao Paulo,F0,2024,GAM,pers,-2.33752,0.01995,5,False,False,,True,False
+Sao Paulo,F0,2025,GAM,clim,-2.67336,0.00785,5,False,False,,True,False
+Sao Paulo,F0,2025,GAM,pers,-1.63550,0.10281,5,False,False,,False,False
+Sao Paulo,F1,2024,Linear,clim,-4.74642,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2024,Linear,pers,-4.48138,0.00001,5,False,False,,True,False
+Sao Paulo,F1,2025,Linear,clim,-5.82871,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2025,Linear,pers,-4.87842,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2024,CART,clim,-5.58458,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2024,CART,pers,-5.53773,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2025,CART,clim,-4.77878,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2025,CART,pers,-4.17783,0.00004,5,False,False,,True,False
+Sao Paulo,F1,2024,SVM,clim,-6.02434,0.00000,5,True,False,0.00000,True,True
+Sao Paulo,F1,2024,SVM,pers,-6.14407,0.00000,5,True,False,0.00000,True,True
+Sao Paulo,F1,2025,SVM,clim,-5.58197,0.00000,5,True,False,0.00000,True,True
+Sao Paulo,F1,2025,SVM,pers,-4.67437,0.00000,5,True,False,0.00011,True,True
+Sao Paulo,F1,2024,RF,clim,-6.86630,0.00000,5,False,True,,True,False
+Sao Paulo,F1,2024,RF,pers,-6.95207,0.00000,5,False,True,,True,False
+Sao Paulo,F1,2025,RF,clim,-6.45449,0.00000,5,False,True,,True,False
+Sao Paulo,F1,2025,RF,pers,-5.27221,0.00000,5,False,True,,True,False
+Sao Paulo,F1,2024,GBT,clim,-6.08617,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2024,GBT,pers,-6.21064,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2025,GBT,clim,-6.25455,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2025,GBT,pers,-5.13443,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2024,GAM,clim,-5.53712,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2024,GAM,pers,-5.50530,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2025,GAM,clim,-5.31761,0.00000,5,False,False,,True,False
+Sao Paulo,F1,2025,GAM,pers,-4.15934,0.00004,5,False,False,,True,False
+Sao Paulo,F2,2024,Linear,clim,-7.00185,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2024,Linear,pers,-6.61077,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2025,Linear,clim,-8.78506,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2025,Linear,pers,-7.51951,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2024,CART,clim,-7.89908,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2024,CART,pers,-8.08259,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2025,CART,clim,-8.35552,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2025,CART,pers,-7.11088,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2024,SVM,clim,-8.71426,0.00000,5,True,False,0.00000,True,True
+Sao Paulo,F2,2024,SVM,pers,-9.03027,0.00000,5,True,False,0.00000,True,True
+Sao Paulo,F2,2025,SVM,clim,-8.75123,0.00000,5,True,False,0.00000,True,True
+Sao Paulo,F2,2025,SVM,pers,-7.99062,0.00000,5,True,False,0.00000,True,True
+Sao Paulo,F2,2024,RF,clim,-8.77889,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2024,RF,pers,-9.06509,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2025,RF,clim,-8.77674,0.00000,5,False,True,,True,False
+Sao Paulo,F2,2025,RF,pers,-7.91059,0.00000,5,False,True,,True,False
+Sao Paulo,F2,2024,GBT,clim,-8.83454,0.00000,5,False,True,,True,False
+Sao Paulo,F2,2024,GBT,pers,-9.20342,0.00000,5,False,True,,True,False
+Sao Paulo,F2,2025,GBT,clim,-8.95885,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2025,GBT,pers,-7.98934,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2024,GAM,clim,-7.88525,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2024,GAM,pers,-7.94180,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2025,GAM,clim,-8.66514,0.00000,5,False,False,,True,False
+Sao Paulo,F2,2025,GAM,pers,-7.22806,0.00000,5,False,False,,True,False
+Curitiba,F0,2024,Linear,clim,-0.56647,0.57143,5,False,False,,False,False
+Curitiba,F0,2024,Linear,pers,0.40825,0.68333,5,False,False,,False,False
+Curitiba,F0,2025,Linear,clim,-4.11001,0.00005,5,False,False,,True,False
+Curitiba,F0,2025,Linear,pers,-3.31960,0.00099,5,False,False,,True,False
+Curitiba,F0,2024,CART,clim,-1.05243,0.29330,5,False,False,,False,False
+Curitiba,F0,2024,CART,pers,0.09027,0.92812,5,False,False,,False,False
+Curitiba,F0,2025,CART,clim,-2.78896,0.00557,5,False,False,,True,False
+Curitiba,F0,2025,CART,pers,-2.44668,0.01489,5,False,False,,True,False
+Curitiba,F0,2024,SVM,clim,-3.18822,0.00156,5,True,True,0.01866,True,True
+Curitiba,F0,2024,SVM,pers,-1.99965,0.04628,5,True,True,0.37023,True,False
+Curitiba,F0,2025,SVM,clim,-4.76256,0.00000,5,True,True,0.00008,True,True
+Curitiba,F0,2025,SVM,pers,-4.20432,0.00003,5,True,True,0.00069,True,True
+Curitiba,F0,2024,RF,clim,-2.76061,0.00606,5,False,False,,True,False
+Curitiba,F0,2024,RF,pers,-1.52691,0.12765,5,False,False,,False,False
+Curitiba,F0,2025,RF,clim,-4.06091,0.00006,5,False,False,,True,False
+Curitiba,F0,2025,RF,pers,-3.55081,0.00043,5,False,False,,True,False
+Curitiba,F0,2024,GBT,clim,-2.58946,0.01000,5,False,False,,True,False
+Curitiba,F0,2024,GBT,pers,-1.36119,0.17429,5,False,False,,False,False
+Curitiba,F0,2025,GBT,clim,-4.12259,0.00005,5,False,False,,True,False
+Curitiba,F0,2025,GBT,pers,-3.46355,0.00060,5,False,False,,True,False
+Curitiba,F0,2024,GAM,clim,-2.32808,0.02045,5,False,False,,True,False
+Curitiba,F0,2024,GAM,pers,-1.12766,0.26021,5,False,False,,False,False
+Curitiba,F0,2025,GAM,clim,-4.38058,0.00002,5,False,False,,True,False
+Curitiba,F0,2025,GAM,pers,-3.63260,0.00032,5,False,False,,True,False
+Curitiba,F1,2024,Linear,clim,-6.31045,0.00000,5,False,False,,True,False
+Curitiba,F1,2024,Linear,pers,-4.88403,0.00000,5,False,False,,True,False
+Curitiba,F1,2025,Linear,clim,-7.87014,0.00000,5,False,False,,True,False
+Curitiba,F1,2025,Linear,pers,-5.91961,0.00000,5,False,False,,True,False
+Curitiba,F1,2024,CART,clim,-5.58701,0.00000,5,False,False,,True,False
+Curitiba,F1,2024,CART,pers,-4.50028,0.00001,5,False,False,,True,False
+Curitiba,F1,2025,CART,clim,-7.11904,0.00000,5,False,False,,True,False
+Curitiba,F1,2025,CART,pers,-6.09526,0.00000,5,False,False,,True,False
+Curitiba,F1,2024,SVM,clim,-7.16520,0.00000,5,True,False,0.00000,True,True
+Curitiba,F1,2024,SVM,pers,-6.26216,0.00000,5,True,False,0.00000,True,True
+Curitiba,F1,2025,SVM,clim,-7.77958,0.00000,5,True,False,0.00000,True,True
+Curitiba,F1,2025,SVM,pers,-6.66096,0.00000,5,True,False,0.00000,True,True
+Curitiba,F1,2024,RF,clim,-7.78624,0.00000,5,False,True,,True,False
+Curitiba,F1,2024,RF,pers,-6.59354,0.00000,5,False,True,,True,False
+Curitiba,F1,2025,RF,clim,-8.43102,0.00000,5,False,True,,True,False
+Curitiba,F1,2025,RF,pers,-7.00908,0.00000,5,False,True,,True,False
+Curitiba,F1,2024,GBT,clim,-7.51834,0.00000,5,False,False,,True,False
+Curitiba,F1,2024,GBT,pers,-6.46411,0.00000,5,False,False,,True,False
+Curitiba,F1,2025,GBT,clim,-8.11816,0.00000,5,False,False,,True,False
+Curitiba,F1,2025,GBT,pers,-6.53818,0.00000,5,False,False,,True,False
+Curitiba,F1,2024,GAM,clim,-7.80434,0.00000,5,False,False,,True,False
+Curitiba,F1,2024,GAM,pers,-6.14671,0.00000,5,False,False,,True,False
+Curitiba,F1,2025,GAM,clim,-7.74860,0.00000,5,False,False,,True,False
+Curitiba,F1,2025,GAM,pers,-6.39669,0.00000,5,False,False,,True,False
+Curitiba,F2,2024,Linear,clim,-7.74815,0.00000,5,False,False,,True,False
+Curitiba,F2,2024,Linear,pers,-6.05245,0.00000,5,False,False,,True,False
+Curitiba,F2,2025,Linear,clim,-10.07633,0.00000,5,False,False,,True,False
+Curitiba,F2,2025,Linear,pers,-7.58844,0.00000,5,False,False,,True,False
+Curitiba,F2,2024,CART,clim,-9.86939,0.00000,5,False,False,,True,False
+Curitiba,F2,2024,CART,pers,-7.50741,0.00000,5,False,False,,True,False
+Curitiba,F2,2025,CART,clim,-8.89547,0.00000,5,False,False,,True,False
+Curitiba,F2,2025,CART,pers,-7.31313,0.00000,5,False,False,,True,False
+Curitiba,F2,2024,SVM,clim,-9.91774,0.00000,5,True,True,0.00000,True,True
+Curitiba,F2,2024,SVM,pers,-8.53381,0.00000,5,True,True,0.00000,True,True
+Curitiba,F2,2025,SVM,clim,-10.09424,0.00000,5,True,True,0.00000,True,True
+Curitiba,F2,2025,SVM,pers,-8.25764,0.00000,5,True,True,0.00000,True,True
+Curitiba,F2,2024,RF,clim,-9.86839,0.00000,5,False,False,,True,False
+Curitiba,F2,2024,RF,pers,-8.41261,0.00000,5,False,False,,True,False
+Curitiba,F2,2025,RF,clim,-9.91233,0.00000,5,False,False,,True,False
+Curitiba,F2,2025,RF,pers,-7.96284,0.00000,5,False,False,,True,False
+Curitiba,F2,2024,GBT,clim,-9.59929,0.00000,5,False,False,,True,False
+Curitiba,F2,2024,GBT,pers,-8.24573,0.00000,5,False,False,,True,False
+Curitiba,F2,2025,GBT,clim,-9.73916,0.00000,5,False,False,,True,False
+Curitiba,F2,2025,GBT,pers,-7.95686,0.00000,5,False,False,,True,False
+Curitiba,F2,2024,GAM,clim,-9.11157,0.00000,5,False,False,,True,False
+Curitiba,F2,2024,GAM,pers,-7.34878,0.00000,5,False,False,,True,False
+Curitiba,F2,2025,GAM,clim,-9.72377,0.00000,5,False,False,,True,False
+Curitiba,F2,2025,GAM,pers,-7.71920,0.00000,5,False,False,,True,False
+Porto Alegre,F0,2024,Linear,clim,-0.99993,0.31801,5,False,False,,False,False
+Porto Alegre,F0,2024,Linear,pers,-2.05828,0.04027,5,False,False,,True,False
+Porto Alegre,F0,2025,Linear,clim,0.99854,0.31868,5,False,False,,False,False
+Porto Alegre,F0,2025,Linear,pers,-0.54595,0.58543,5,False,False,,False,False
+Porto Alegre,F0,2024,CART,clim,-2.26604,0.02403,5,False,False,,True,False
+Porto Alegre,F0,2024,CART,pers,-3.31778,0.00100,5,False,False,,True,False
+Porto Alegre,F0,2025,CART,clim,-0.21187,0.83233,5,False,False,,False,False
+Porto Alegre,F0,2025,CART,pers,-1.38666,0.16639,5,False,False,,False,False
+Porto Alegre,F0,2024,SVM,clim,-2.59179,0.00993,5,False,False,,True,False
+Porto Alegre,F0,2024,SVM,pers,-3.72155,0.00023,5,False,False,,True,False
+Porto Alegre,F0,2025,SVM,clim,-1.45662,0.14608,5,False,False,,False,False
+Porto Alegre,F0,2025,SVM,pers,-2.28612,0.02282,5,False,False,,True,False
+Porto Alegre,F0,2024,RF,clim,-3.27704,0.00115,5,True,False,0.01626,True,True
+Porto Alegre,F0,2024,RF,pers,-4.34089,0.00002,5,True,False,0.00044,True,True
+Porto Alegre,F0,2025,RF,clim,-2.09609,0.03676,5,True,False,0.22058,True,False
+Porto Alegre,F0,2025,RF,pers,-2.77375,0.00583,5,True,False,0.05827,True,False
+Porto Alegre,F0,2024,GBT,clim,-3.54676,0.00044,5,False,True,,True,False
+Porto Alegre,F0,2024,GBT,pers,-4.49524,0.00001,5,False,True,,True,False
+Porto Alegre,F0,2025,GBT,clim,-2.11640,0.03499,5,False,True,,True,False
+Porto Alegre,F0,2025,GBT,pers,-2.78270,0.00567,5,False,True,,True,False
+Porto Alegre,F0,2024,GAM,clim,-2.64252,0.00858,5,False,False,,True,False
+Porto Alegre,F0,2024,GAM,pers,-3.66977,0.00028,5,False,False,,True,False
+Porto Alegre,F0,2025,GAM,clim,-1.16940,0.24301,5,False,False,,False,False
+Porto Alegre,F0,2025,GAM,pers,-2.11676,0.03496,5,False,False,,True,False
+Porto Alegre,F1,2024,Linear,clim,-7.61931,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2024,Linear,pers,-7.41903,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2025,Linear,clim,-6.29923,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2025,Linear,pers,-5.32527,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2024,CART,clim,-6.92928,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2024,CART,pers,-8.03547,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2025,CART,clim,-5.21685,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2025,CART,pers,-4.78498,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2024,SVM,clim,-8.78229,0.00000,5,True,False,0.00000,True,True
+Porto Alegre,F1,2024,SVM,pers,-9.03233,0.00000,5,True,False,0.00000,True,True
+Porto Alegre,F1,2025,SVM,clim,-7.22657,0.00000,5,True,True,0.00000,True,True
+Porto Alegre,F1,2025,SVM,pers,-5.85758,0.00000,5,True,True,0.00000,True,True
+Porto Alegre,F1,2024,RF,clim,-8.99305,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2024,RF,pers,-9.09990,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2025,RF,clim,-7.24561,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2025,RF,pers,-5.99403,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2024,GBT,clim,-8.75287,0.00000,5,False,True,,True,False
+Porto Alegre,F1,2024,GBT,pers,-8.93798,0.00000,5,False,True,,True,False
+Porto Alegre,F1,2025,GBT,clim,-7.33784,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2025,GBT,pers,-5.94539,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2024,GAM,clim,-8.03617,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2024,GAM,pers,-8.16373,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2025,GAM,clim,-6.99377,0.00000,5,False,False,,True,False
+Porto Alegre,F1,2025,GAM,pers,-5.73434,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2024,Linear,clim,-10.57631,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2024,Linear,pers,-9.57358,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2025,Linear,clim,-8.55213,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2025,Linear,pers,-6.69002,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2024,CART,clim,-9.91718,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2024,CART,pers,-9.26500,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2025,CART,clim,-8.56568,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2025,CART,pers,-6.63480,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2024,SVM,clim,-10.83759,0.00000,5,True,False,0.00000,True,True
+Porto Alegre,F2,2024,SVM,pers,-10.14877,0.00000,5,True,False,0.00000,True,True
+Porto Alegre,F2,2025,SVM,clim,-9.00516,0.00000,5,True,True,0.00000,True,True
+Porto Alegre,F2,2025,SVM,pers,-6.95819,0.00000,5,True,True,0.00000,True,True
+Porto Alegre,F2,2024,RF,clim,-10.77269,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2024,RF,pers,-10.04025,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2025,RF,clim,-9.01198,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2025,RF,pers,-7.01003,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2024,GBT,clim,-10.62129,0.00000,5,False,True,,True,False
+Porto Alegre,F2,2024,GBT,pers,-9.95962,0.00000,5,False,True,,True,False
+Porto Alegre,F2,2025,GBT,clim,-9.05201,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2025,GBT,pers,-7.01062,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2024,GAM,clim,-10.06937,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2024,GAM,pers,-9.41699,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2025,GAM,clim,-8.58962,0.00000,5,False,False,,True,False
+Porto Alegre,F2,2025,GAM,pers,-6.75637,0.00000,5,False,False,,True,False

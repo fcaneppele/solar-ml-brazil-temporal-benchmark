@@ -1,0 +1,241 @@
+City,TestYear,Which,Model,Group,dRMSE_mean,dRMSE_sd,base_RMSE
+Manaus,2024,RF,RF,Temperature (T2M),0.01675,0.00668,0.92880
+Manaus,2024,RF,RF,Diurnal temperature range,0.06088,0.00723,0.92880
+Manaus,2024,RF,RF,Relative humidity,0.01384,0.00555,0.92880
+Manaus,2024,RF,RF,Precipitation,0.29138,0.02520,0.92880
+Manaus,2024,RF,RF,Wind and pressure,0.03585,0.00842,0.92880
+Manaus,2024,RF,RF,"Astronomical (TOA, DOY)",0.01036,0.00534,0.92880
+Manaus,2024,Selected,RF,Temperature (T2M),0.01675,0.00668,0.92880
+Manaus,2024,Selected,RF,Diurnal temperature range,0.06088,0.00723,0.92880
+Manaus,2024,Selected,RF,Relative humidity,0.01384,0.00555,0.92880
+Manaus,2024,Selected,RF,Precipitation,0.29138,0.02520,0.92880
+Manaus,2024,Selected,RF,Wind and pressure,0.03585,0.00842,0.92880
+Manaus,2024,Selected,RF,"Astronomical (TOA, DOY)",0.01036,0.00534,0.92880
+Manaus,2025,RF,RF,Temperature (T2M),0.01096,0.00679,0.93363
+Manaus,2025,RF,RF,Diurnal temperature range,0.06782,0.01102,0.93363
+Manaus,2025,RF,RF,Relative humidity,-0.00389,0.00577,0.93363
+Manaus,2025,RF,RF,Precipitation,0.25139,0.02646,0.93363
+Manaus,2025,RF,RF,Wind and pressure,0.01704,0.00615,0.93363
+Manaus,2025,RF,RF,"Astronomical (TOA, DOY)",0.01429,0.00614,0.93363
+Manaus,2025,Selected,RF,Temperature (T2M),0.01096,0.00679,0.93363
+Manaus,2025,Selected,RF,Diurnal temperature range,0.06782,0.01102,0.93363
+Manaus,2025,Selected,RF,Relative humidity,-0.00389,0.00577,0.93363
+Manaus,2025,Selected,RF,Precipitation,0.25139,0.02646,0.93363
+Manaus,2025,Selected,RF,Wind and pressure,0.01704,0.00615,0.93363
+Manaus,2025,Selected,RF,"Astronomical (TOA, DOY)",0.01429,0.00614,0.93363
+Fortaleza,2024,RF,RF,Temperature (T2M),0.00312,0.00298,0.83588
+Fortaleza,2024,RF,RF,Diurnal temperature range,0.06011,0.01120,0.83588
+Fortaleza,2024,RF,RF,Relative humidity,0.05565,0.01043,0.83588
+Fortaleza,2024,RF,RF,Precipitation,0.32561,0.02085,0.83588
+Fortaleza,2024,RF,RF,Wind and pressure,0.01857,0.00468,0.83588
+Fortaleza,2024,RF,RF,"Astronomical (TOA, DOY)",0.06113,0.00971,0.83588
+Fortaleza,2024,Selected,RF,Temperature (T2M),0.00312,0.00298,0.83588
+Fortaleza,2024,Selected,RF,Diurnal temperature range,0.06011,0.01120,0.83588
+Fortaleza,2024,Selected,RF,Relative humidity,0.05565,0.01043,0.83588
+Fortaleza,2024,Selected,RF,Precipitation,0.32561,0.02085,0.83588
+Fortaleza,2024,Selected,RF,Wind and pressure,0.01857,0.00468,0.83588
+Fortaleza,2024,Selected,RF,"Astronomical (TOA, DOY)",0.06113,0.00971,0.83588
+Fortaleza,2025,RF,RF,Temperature (T2M),0.01098,0.00456,0.76606
+Fortaleza,2025,RF,RF,Diurnal temperature range,0.06549,0.00749,0.76606
+Fortaleza,2025,RF,RF,Relative humidity,0.06729,0.00757,0.76606
+Fortaleza,2025,RF,RF,Precipitation,0.28724,0.02032,0.76606
+Fortaleza,2025,RF,RF,Wind and pressure,0.00394,0.00329,0.76606
+Fortaleza,2025,RF,RF,"Astronomical (TOA, DOY)",0.10721,0.01058,0.76606
+Fortaleza,2025,Selected,RF,Temperature (T2M),0.01098,0.00456,0.76606
+Fortaleza,2025,Selected,RF,Diurnal temperature range,0.06549,0.00749,0.76606
+Fortaleza,2025,Selected,RF,Relative humidity,0.06729,0.00757,0.76606
+Fortaleza,2025,Selected,RF,Precipitation,0.28724,0.02032,0.76606
+Fortaleza,2025,Selected,RF,Wind and pressure,0.00394,0.00329,0.76606
+Fortaleza,2025,Selected,RF,"Astronomical (TOA, DOY)",0.10721,0.01058,0.76606
+Recife,2024,RF,RF,Temperature (T2M),0.00140,0.00381,0.62212
+Recife,2024,RF,RF,Diurnal temperature range,0.01737,0.00488,0.62212
+Recife,2024,RF,RF,Relative humidity,0.10181,0.01371,0.62212
+Recife,2024,RF,RF,Precipitation,0.15019,0.01765,0.62212
+Recife,2024,RF,RF,Wind and pressure,-0.00087,0.00276,0.62212
+Recife,2024,RF,RF,"Astronomical (TOA, DOY)",0.19197,0.01494,0.62212
+Recife,2024,Selected,RF,Temperature (T2M),0.00140,0.00381,0.62212
+Recife,2024,Selected,RF,Diurnal temperature range,0.01737,0.00488,0.62212
+Recife,2024,Selected,RF,Relative humidity,0.10181,0.01371,0.62212
+Recife,2024,Selected,RF,Precipitation,0.15019,0.01765,0.62212
+Recife,2024,Selected,RF,Wind and pressure,-0.00087,0.00276,0.62212
+Recife,2024,Selected,RF,"Astronomical (TOA, DOY)",0.19197,0.01494,0.62212
+Recife,2025,RF,RF,Temperature (T2M),0.00043,0.00422,0.57181
+Recife,2025,RF,RF,Diurnal temperature range,0.02712,0.00554,0.57181
+Recife,2025,RF,RF,Relative humidity,0.12960,0.01211,0.57181
+Recife,2025,RF,RF,Precipitation,0.18744,0.01853,0.57181
+Recife,2025,RF,RF,Wind and pressure,-0.00095,0.00278,0.57181
+Recife,2025,RF,RF,"Astronomical (TOA, DOY)",0.18734,0.01210,0.57181
+Recife,2025,Selected,RF,Temperature (T2M),0.00043,0.00422,0.57181
+Recife,2025,Selected,RF,Diurnal temperature range,0.02712,0.00554,0.57181
+Recife,2025,Selected,RF,Relative humidity,0.12960,0.01211,0.57181
+Recife,2025,Selected,RF,Precipitation,0.18744,0.01853,0.57181
+Recife,2025,Selected,RF,Wind and pressure,-0.00095,0.00278,0.57181
+Recife,2025,Selected,RF,"Astronomical (TOA, DOY)",0.18734,0.01210,0.57181
+Brasilia,2024,RF,RF,Temperature (T2M),0.03926,0.00850,0.78150
+Brasilia,2024,RF,RF,Diurnal temperature range,0.32239,0.02815,0.78150
+Brasilia,2024,RF,RF,Relative humidity,0.02773,0.00476,0.78150
+Brasilia,2024,RF,RF,Precipitation,0.24786,0.02376,0.78150
+Brasilia,2024,RF,RF,Wind and pressure,0.03247,0.00721,0.78150
+Brasilia,2024,RF,RF,"Astronomical (TOA, DOY)",0.53663,0.04176,0.78150
+Brasilia,2024,Selected,SVM,Temperature (T2M),0.04903,0.00934,0.80520
+Brasilia,2024,Selected,SVM,Diurnal temperature range,0.55565,0.03147,0.80520
+Brasilia,2024,Selected,SVM,Relative humidity,0.02445,0.00725,0.80520
+Brasilia,2024,Selected,SVM,Precipitation,0.16028,0.01986,0.80520
+Brasilia,2024,Selected,SVM,Wind and pressure,0.02812,0.00999,0.80520
+Brasilia,2024,Selected,SVM,"Astronomical (TOA, DOY)",0.70222,0.05291,0.80520
+Brasilia,2025,RF,RF,Temperature (T2M),0.01899,0.01370,0.80450
+Brasilia,2025,RF,RF,Diurnal temperature range,0.23187,0.01918,0.80450
+Brasilia,2025,RF,RF,Relative humidity,0.01497,0.00429,0.80450
+Brasilia,2025,RF,RF,Precipitation,0.24906,0.01981,0.80450
+Brasilia,2025,RF,RF,Wind and pressure,0.01201,0.00615,0.80450
+Brasilia,2025,RF,RF,"Astronomical (TOA, DOY)",0.59840,0.02411,0.80450
+Brasilia,2025,Selected,SVM,Temperature (T2M),0.01333,0.01198,0.86495
+Brasilia,2025,Selected,SVM,Diurnal temperature range,0.35812,0.02445,0.86495
+Brasilia,2025,Selected,SVM,Relative humidity,0.01457,0.00587,0.86495
+Brasilia,2025,Selected,SVM,Precipitation,0.12344,0.01893,0.86495
+Brasilia,2025,Selected,SVM,Wind and pressure,0.01091,0.01241,0.86495
+Brasilia,2025,Selected,SVM,"Astronomical (TOA, DOY)",0.68359,0.03164,0.86495
+Cuiaba,2024,RF,RF,Temperature (T2M),0.01667,0.00954,0.94975
+Cuiaba,2024,RF,RF,Diurnal temperature range,0.15640,0.01112,0.94975
+Cuiaba,2024,RF,RF,Relative humidity,-0.01418,0.00380,0.94975
+Cuiaba,2024,RF,RF,Precipitation,0.11684,0.01532,0.94975
+Cuiaba,2024,RF,RF,Wind and pressure,0.00340,0.00438,0.94975
+Cuiaba,2024,RF,RF,"Astronomical (TOA, DOY)",0.55022,0.04003,0.94975
+Cuiaba,2024,Selected,SVM,Temperature (T2M),0.05142,0.00833,0.97424
+Cuiaba,2024,Selected,SVM,Diurnal temperature range,0.30623,0.01449,0.97424
+Cuiaba,2024,Selected,SVM,Relative humidity,-0.02947,0.01030,0.97424
+Cuiaba,2024,Selected,SVM,Precipitation,0.06866,0.01341,0.97424
+Cuiaba,2024,Selected,SVM,Wind and pressure,0.02270,0.01114,0.97424
+Cuiaba,2024,Selected,SVM,"Astronomical (TOA, DOY)",0.58817,0.03803,0.97424
+Cuiaba,2025,RF,RF,Temperature (T2M),0.04849,0.01609,0.96311
+Cuiaba,2025,RF,RF,Diurnal temperature range,0.21668,0.02094,0.96311
+Cuiaba,2025,RF,RF,Relative humidity,-0.00930,0.00324,0.96311
+Cuiaba,2025,RF,RF,Precipitation,0.16170,0.01586,0.96311
+Cuiaba,2025,RF,RF,Wind and pressure,0.00906,0.00670,0.96311
+Cuiaba,2025,RF,RF,"Astronomical (TOA, DOY)",0.46006,0.02709,0.96311
+Cuiaba,2025,Selected,SVM,Temperature (T2M),0.03785,0.01196,0.96752
+Cuiaba,2025,Selected,SVM,Diurnal temperature range,0.39801,0.03605,0.96752
+Cuiaba,2025,Selected,SVM,Relative humidity,0.01907,0.00835,0.96752
+Cuiaba,2025,Selected,SVM,Precipitation,0.10601,0.01704,0.96752
+Cuiaba,2025,Selected,SVM,Wind and pressure,0.01943,0.01469,0.96752
+Cuiaba,2025,Selected,SVM,"Astronomical (TOA, DOY)",0.57124,0.03113,0.96752
+Belo Horizonte,2024,RF,RF,Temperature (T2M),0.05442,0.01612,0.83623
+Belo Horizonte,2024,RF,RF,Diurnal temperature range,0.22195,0.01152,0.83623
+Belo Horizonte,2024,RF,RF,Relative humidity,0.05230,0.00818,0.83623
+Belo Horizonte,2024,RF,RF,Precipitation,0.30152,0.01972,0.83623
+Belo Horizonte,2024,RF,RF,Wind and pressure,0.04681,0.00639,0.83623
+Belo Horizonte,2024,RF,RF,"Astronomical (TOA, DOY)",0.64712,0.03589,0.83623
+Belo Horizonte,2024,Selected,GAM,Temperature (T2M),0.06645,0.01050,0.90396
+Belo Horizonte,2024,Selected,GAM,Diurnal temperature range,0.35298,0.01483,0.90396
+Belo Horizonte,2024,Selected,GAM,Relative humidity,0.07087,0.01190,0.90396
+Belo Horizonte,2024,Selected,GAM,Precipitation,0.15901,0.01219,0.90396
+Belo Horizonte,2024,Selected,GAM,Wind and pressure,0.04734,0.00909,0.90396
+Belo Horizonte,2024,Selected,GAM,"Astronomical (TOA, DOY)",0.60068,0.03648,0.90396
+Belo Horizonte,2025,RF,RF,Temperature (T2M),0.03118,0.01465,0.90110
+Belo Horizonte,2025,RF,RF,Diurnal temperature range,0.12952,0.01215,0.90110
+Belo Horizonte,2025,RF,RF,Relative humidity,0.04185,0.00771,0.90110
+Belo Horizonte,2025,RF,RF,Precipitation,0.23556,0.01202,0.90110
+Belo Horizonte,2025,RF,RF,Wind and pressure,0.02378,0.00965,0.90110
+Belo Horizonte,2025,RF,RF,"Astronomical (TOA, DOY)",0.57564,0.03261,0.90110
+Belo Horizonte,2025,Selected,GAM,Temperature (T2M),0.03193,0.00948,0.94199
+Belo Horizonte,2025,Selected,GAM,Diurnal temperature range,0.20915,0.01603,0.94199
+Belo Horizonte,2025,Selected,GAM,Relative humidity,0.07120,0.00964,0.94199
+Belo Horizonte,2025,Selected,GAM,Precipitation,0.12606,0.01021,0.94199
+Belo Horizonte,2025,Selected,GAM,Wind and pressure,0.05421,0.01006,0.94199
+Belo Horizonte,2025,Selected,GAM,"Astronomical (TOA, DOY)",0.54184,0.02821,0.94199
+Rio de Janeiro,2024,RF,RF,Temperature (T2M),0.16295,0.02663,0.93696
+Rio de Janeiro,2024,RF,RF,Diurnal temperature range,0.23598,0.01976,0.93696
+Rio de Janeiro,2024,RF,RF,Relative humidity,0.03086,0.00585,0.93696
+Rio de Janeiro,2024,RF,RF,Precipitation,0.39677,0.02718,0.93696
+Rio de Janeiro,2024,RF,RF,Wind and pressure,0.05068,0.00671,0.93696
+Rio de Janeiro,2024,RF,RF,"Astronomical (TOA, DOY)",0.63938,0.03949,0.93696
+Rio de Janeiro,2024,Selected,GBT,Temperature (T2M),0.16040,0.02708,0.94981
+Rio de Janeiro,2024,Selected,GBT,Diurnal temperature range,0.23860,0.02220,0.94981
+Rio de Janeiro,2024,Selected,GBT,Relative humidity,0.01638,0.00375,0.94981
+Rio de Janeiro,2024,Selected,GBT,Precipitation,0.47249,0.03249,0.94981
+Rio de Janeiro,2024,Selected,GBT,Wind and pressure,0.03473,0.00700,0.94981
+Rio de Janeiro,2024,Selected,GBT,"Astronomical (TOA, DOY)",0.64484,0.03789,0.94981
+Rio de Janeiro,2025,RF,RF,Temperature (T2M),0.09572,0.02095,1.04319
+Rio de Janeiro,2025,RF,RF,Diurnal temperature range,0.19547,0.02683,1.04319
+Rio de Janeiro,2025,RF,RF,Relative humidity,0.01416,0.00495,1.04319
+Rio de Janeiro,2025,RF,RF,Precipitation,0.33275,0.02961,1.04319
+Rio de Janeiro,2025,RF,RF,Wind and pressure,0.02463,0.01102,1.04319
+Rio de Janeiro,2025,RF,RF,"Astronomical (TOA, DOY)",0.63839,0.03475,1.04319
+Rio de Janeiro,2025,Selected,GBT,Temperature (T2M),0.11194,0.02139,1.04431
+Rio de Janeiro,2025,Selected,GBT,Diurnal temperature range,0.16090,0.02589,1.04431
+Rio de Janeiro,2025,Selected,GBT,Relative humidity,0.00757,0.00358,1.04431
+Rio de Janeiro,2025,Selected,GBT,Precipitation,0.37084,0.03452,1.04431
+Rio de Janeiro,2025,Selected,GBT,Wind and pressure,0.01926,0.00652,1.04431
+Rio de Janeiro,2025,Selected,GBT,"Astronomical (TOA, DOY)",0.67092,0.03273,1.04431
+Sao Paulo,2024,RF,RF,Temperature (T2M),0.12879,0.01730,0.92959
+Sao Paulo,2024,RF,RF,Diurnal temperature range,0.16891,0.01937,0.92959
+Sao Paulo,2024,RF,RF,Relative humidity,0.09327,0.00899,0.92959
+Sao Paulo,2024,RF,RF,Precipitation,0.24314,0.02141,0.92959
+Sao Paulo,2024,RF,RF,Wind and pressure,0.00232,0.00774,0.92959
+Sao Paulo,2024,RF,RF,"Astronomical (TOA, DOY)",0.72579,0.04824,0.92959
+Sao Paulo,2024,Selected,SVM,Temperature (T2M),0.06155,0.01213,0.98252
+Sao Paulo,2024,Selected,SVM,Diurnal temperature range,0.20477,0.03041,0.98252
+Sao Paulo,2024,Selected,SVM,Relative humidity,0.18034,0.02157,0.98252
+Sao Paulo,2024,Selected,SVM,Precipitation,0.13651,0.01947,0.98252
+Sao Paulo,2024,Selected,SVM,Wind and pressure,0.01897,0.00973,0.98252
+Sao Paulo,2024,Selected,SVM,"Astronomical (TOA, DOY)",0.86516,0.05798,0.98252
+Sao Paulo,2025,RF,RF,Temperature (T2M),0.06745,0.01297,1.01099
+Sao Paulo,2025,RF,RF,Diurnal temperature range,0.16629,0.01505,1.01099
+Sao Paulo,2025,RF,RF,Relative humidity,0.06451,0.01156,1.01099
+Sao Paulo,2025,RF,RF,Precipitation,0.22760,0.02177,1.01099
+Sao Paulo,2025,RF,RF,Wind and pressure,0.00279,0.00832,1.01099
+Sao Paulo,2025,RF,RF,"Astronomical (TOA, DOY)",0.68489,0.03360,1.01099
+Sao Paulo,2025,Selected,SVM,Temperature (T2M),0.03790,0.00983,1.07128
+Sao Paulo,2025,Selected,SVM,Diurnal temperature range,0.20129,0.01356,1.07128
+Sao Paulo,2025,Selected,SVM,Relative humidity,0.14263,0.01897,1.07128
+Sao Paulo,2025,Selected,SVM,Precipitation,0.11527,0.01586,1.07128
+Sao Paulo,2025,Selected,SVM,Wind and pressure,0.00212,0.01515,1.07128
+Sao Paulo,2025,Selected,SVM,"Astronomical (TOA, DOY)",0.81538,0.04205,1.07128
+Curitiba,2024,RF,RF,Temperature (T2M),0.06186,0.00976,1.00192
+Curitiba,2024,RF,RF,Diurnal temperature range,0.06733,0.01593,1.00192
+Curitiba,2024,RF,RF,Relative humidity,0.44951,0.02969,1.00192
+Curitiba,2024,RF,RF,Precipitation,0.11762,0.02210,1.00192
+Curitiba,2024,RF,RF,Wind and pressure,0.01468,0.00312,1.00192
+Curitiba,2024,RF,RF,"Astronomical (TOA, DOY)",0.82198,0.04165,1.00192
+Curitiba,2024,Selected,SVM,Temperature (T2M),0.08996,0.01005,1.01690
+Curitiba,2024,Selected,SVM,Diurnal temperature range,0.13272,0.02318,1.01690
+Curitiba,2024,Selected,SVM,Relative humidity,0.41513,0.02896,1.01690
+Curitiba,2024,Selected,SVM,Precipitation,0.11604,0.01858,1.01690
+Curitiba,2024,Selected,SVM,Wind and pressure,0.01140,0.00966,1.01690
+Curitiba,2024,Selected,SVM,"Astronomical (TOA, DOY)",0.93002,0.04078,1.01690
+Curitiba,2025,RF,RF,Temperature (T2M),0.05948,0.00634,0.92301
+Curitiba,2025,RF,RF,Diurnal temperature range,0.09329,0.01569,0.92301
+Curitiba,2025,RF,RF,Relative humidity,0.49281,0.03357,0.92301
+Curitiba,2025,RF,RF,Precipitation,0.12397,0.01792,0.92301
+Curitiba,2025,RF,RF,Wind and pressure,0.00547,0.00297,0.92301
+Curitiba,2025,RF,RF,"Astronomical (TOA, DOY)",0.80687,0.03928,0.92301
+Curitiba,2025,Selected,SVM,Temperature (T2M),0.08596,0.00818,0.95537
+Curitiba,2025,Selected,SVM,Diurnal temperature range,0.15473,0.02569,0.95537
+Curitiba,2025,Selected,SVM,Relative humidity,0.45575,0.03409,0.95537
+Curitiba,2025,Selected,SVM,Precipitation,0.08102,0.01845,0.95537
+Curitiba,2025,Selected,SVM,Wind and pressure,0.01234,0.00888,0.95537
+Curitiba,2025,Selected,SVM,"Astronomical (TOA, DOY)",0.87958,0.03931,0.95537
+Porto Alegre,2024,RF,RF,Temperature (T2M),0.02217,0.00634,1.03494
+Porto Alegre,2024,RF,RF,Diurnal temperature range,0.23151,0.01835,1.03494
+Porto Alegre,2024,RF,RF,Relative humidity,0.39038,0.02736,1.03494
+Porto Alegre,2024,RF,RF,Precipitation,0.30402,0.03634,1.03494
+Porto Alegre,2024,RF,RF,Wind and pressure,0.01330,0.00578,1.03494
+Porto Alegre,2024,RF,RF,"Astronomical (TOA, DOY)",1.11177,0.05581,1.03494
+Porto Alegre,2024,Selected,SVM,Temperature (T2M),0.06508,0.01110,1.03431
+Porto Alegre,2024,Selected,SVM,Diurnal temperature range,0.34725,0.02677,1.03431
+Porto Alegre,2024,Selected,SVM,Relative humidity,0.30516,0.03095,1.03431
+Porto Alegre,2024,Selected,SVM,Precipitation,0.29030,0.04161,1.03431
+Porto Alegre,2024,Selected,SVM,Wind and pressure,0.06862,0.01048,1.03431
+Porto Alegre,2024,Selected,SVM,"Astronomical (TOA, DOY)",1.20630,0.05549,1.03431
+Porto Alegre,2025,RF,RF,Temperature (T2M),0.01740,0.00496,0.90262
+Porto Alegre,2025,RF,RF,Diurnal temperature range,0.20201,0.02626,0.90262
+Porto Alegre,2025,RF,RF,Relative humidity,0.34563,0.02512,0.90262
+Porto Alegre,2025,RF,RF,Precipitation,0.36368,0.03639,0.90262
+Porto Alegre,2025,RF,RF,Wind and pressure,0.02178,0.00558,0.90262
+Porto Alegre,2025,RF,RF,"Astronomical (TOA, DOY)",1.43763,0.06955,0.90262
+Porto Alegre,2025,Selected,SVM,Temperature (T2M),0.07865,0.01164,0.89773
+Porto Alegre,2025,Selected,SVM,Diurnal temperature range,0.29080,0.02332,0.89773
+Porto Alegre,2025,Selected,SVM,Relative humidity,0.30824,0.02450,0.89773
+Porto Alegre,2025,Selected,SVM,Precipitation,0.34752,0.05118,0.89773
+Porto Alegre,2025,Selected,SVM,Wind and pressure,0.05429,0.01592,0.89773
+Porto Alegre,2025,Selected,SVM,"Astronomical (TOA, DOY)",1.55558,0.06799,0.89773
